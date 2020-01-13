@@ -1,1 +1,4 @@
-[{"descripcion":"pasaear al perro","completado":false},{"descripcion":"comer","completado":false},{"descripcion":"saltar","completado":false}]
+[
+  { "descripcion": "pasaear al perro", "completado": false },
+  { "descripcion": "comer", "completado": false }
+]
